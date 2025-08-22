@@ -1,12 +1,28 @@
-# React + Vite
+# 🚀 Raksha's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using **React + Vite + Tailwind CSS + Framer Motion**.  
+It showcases my **skills, projects, and achievements** in an interactive way.
 
-Currently, two official plugins are available:
+## 🌟 Features
+- Beautiful animated hero section with typing effect
+- Projects with GitHub + Live Demo links
+- Responsive design (mobile-friendly)
+- Smooth animations using Framer Motion
+- Contact form with social links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Typed
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo
+👉 [View My Portfolio](https://rakshatu-rgb.github.io/portfolio)  *(after deployment)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 📬 Contact Me
+- [LinkedIn](https://linkedin.com/in/rakshatu)
+- [GitHub](https://github.com/rakshatu-rgb)
+- 📧 Email: rakshagowda102@gmail.com.com
